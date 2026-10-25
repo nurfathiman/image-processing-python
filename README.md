@@ -99,13 +99,13 @@ print("Contours found:", len(contours))
 
 The grid below shows the sample image after each step. Top row: original, grayscale, Gaussian blur. Bottom row: histogram equalisation, Otsu threshold, Canny edges.
 
-![Summary grid](images/11_summary_grid.png)
+![Summary grid](11_summary_grid.png)
 
 | Step | Output |
 |---|---|
-| Original | ![original](images/01_original.png) |
-| Rotated 30° | ![rotated](images/04_rotated_30deg.png) |
-| Contours drawn in green | ![contours](images/10_contours.png) |
+| Original | ![original](01_original.png) |
+| Rotated 30° | ![rotated](04_rotated_30deg.png) |
+| Contours drawn in green | ![contours](10_contours.png) |
 
 Observations:
 
