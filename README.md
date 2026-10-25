@@ -1,9 +1,10 @@
 # Image Processing with Python
 
 **Course:** ITT440 | **Assessment 1 (Individual Assignment)**
+
 **Name:** MUHAMMAD NURFATH IMAN BIN ROOSEFFENDY | **Student ID:** 2025183455
 
-> 🎥 **Demo video:** [https://youtu.be/nnKj0J-UlEY](https://youtu.be/nnKj0J-UlEY)
+>**Demo video:** [https://youtu.be/nnKj0J-UlEY](https://youtu.be/nnKj0J-UlEY)
 
 ---
 
